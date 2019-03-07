@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 企业应用开发
+email: 1612917@mail.nankai.edu.cn
+description:  企业应用开发课程项目。小组成员：杜心宇、张博健、张鑫豪、张宇哲。此博客用于记录开发日志。
+
+baseurl: "/jekyll-project" # the subpath of your site, e.g. /blog
+url: "http://Zhang-YZ.githut.io" # the base hostname & protocol for your site
+twitter_username: project
+github_username:  project
+
+# Build settings
+markdown: kramdown
