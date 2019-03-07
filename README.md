@@ -1,6 +1,6 @@
 # 企业应用开发博客
 
-####点击链接查看博客网页：[https://zhang-yz.github.io/jekyll-project](https://zhang-yz.github.io/jekyll-project/)
+#### 点击链接查看博客网页：[https://zhang-yz.github.io/jekyll-project](https://zhang-yz.github.io/jekyll-project/)
 
 ------
 
@@ -12,7 +12,7 @@ Ps：如果有操作失误请立刻联系其他组员。
 
 ------
 
-####博客markdown文件格式
+#### 博客markdown文件格式
 
 1.**文件名请使用 `YYYY-MM-DD-filename.md` 形式**，其中前面三节代表日期，后面是文件名称。（其中文件名称不是博文名称，日期也不是真正日期，格式正确就可以）
 
@@ -41,7 +41,7 @@ categories: jekyll update
 
 ------
 
-##Jekyll template
+## Jekyll template
 
 Light and beautiful blog style template for jekyll
 
