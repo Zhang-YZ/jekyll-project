@@ -11,7 +11,7 @@ email: 1612917@mail.nankai.edu.cn
 description:  企业应用开发课程项目。小组成员：杜心宇、张博健、张鑫豪、张宇哲。此博客用于记录开发日志。
 
 baseurl: "/jekyll-project" # the subpath of your site, e.g. /blog
-url: "http://Zhang-YZ.githut.io" # the base hostname & protocol for your site
+url: "https://xinhao.space" # the base hostname & protocol for your site
 twitter_username: project
 github_username:  project
 
